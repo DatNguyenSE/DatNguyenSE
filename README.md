@@ -1,4 +1,4 @@
-<h1 align="center">🔥 Nguyễn Thành Đạt 🔥</h1>
+<h1 align="center"> Hi👋,  I'm Nguyễn Thành Đạt </h1>
 
 <h3 align="center"> Back-End Developer | DevOps Engineer</h3>
 
